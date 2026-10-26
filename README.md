@@ -1,49 +1,25 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is GODCONTRIBUTOR and I'm a ФАНАТ ТОЛИКА, from ДЖЕРОНИЯ</h2>
+## Hi 👋! My name is GODCONTRIBUTOR and I'm a ФАНАТ ТОЛИКА, from ДЖЕРОНИЯ
 
-###
+<img src="https://imgflip.com" align="right" height="150" alt="avatar" />
 
+### 🛠️ Technologies
 
+![Java](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![React](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Python](https://shields.io)
+![C#](https://shields.io)
 
-</div>
+### 🤝 Socials
 
-###
-
-<img data-importer="image" align="right" height="150" src="https://imgflip.com"  />
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://jsdelivr.net" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-  <img src="https://shields.io" height="35" alt="youtube logo"  />
-  <img src="https://shields.io" height="35" alt="instagram logo"  />
-  <img src="https://shields.io" height="35" alt="twitch logo"  />
-  <img src="https://shields.io" height="35" alt="discord logo"  />
-  <img src="https://shields.io" height="35" alt="gmail logo"  />
-  <img src="https://shields.io" height="35" alt="linkedin logo"  />
-</div>
-
-###
+![YouTube](https://shields.io)
+![Instagram](https://shields.io)
+![Twitch](https://shields.io)
+![Discord](https://shields.io)
+![Gmail](https://shields.io)
+![LinkedIn](https://shields.io)
 
 <br clear="both">
-
-
-###
